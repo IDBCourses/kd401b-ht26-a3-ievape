@@ -1,0 +1,66 @@
+:root {
+  --color-neutral-light-900: hsl(203, 63.6%, 6.5%);
+  --color-neutral-light-700: hsl(203, 21.8%, 26.1%);
+  --color-neutral-light-500: hsl(202, 22.2%, 45.9%);
+  --color-neutral-light-300: hsl(202, 21.8%, 65.9%);
+  --color-neutral-light-100: hsl(199, 22.2%, 85.9%);
+  --color-semantic-light-900: hsl(175, 41.9%, 6.1%);
+  --color-semantic-light-700: hsl(176, 40.7%, 15.9%);
+  --color-semantic-light-500: hsl(177, 41%, 35.9%);
+  --color-semantic-light-300: hsl(177, 41.1%, 56.1%);
+  --color-semantic-light-100: hsl(176, 41%, 76.1%);
+  --color-main-light-900: hsl(22, 100%, 18%);
+  --color-main-light-700: hsl(22, 100%, 28%);
+  --color-main-light-500: hsl(22, 100%, 38.4%);
+  --color-main-light-300: hsl(22, 100%, 58%);
+  --color-main-light-100: hsl(22, 100%, 78%);
+  --color-semantic-2-light-900: hsl(38, 68.2%, 21%);
+  --color-semantic-2-light-700: hsl(38, 67.6%, 35.1%);
+  --color-semantic-2-light-500: hsl(37, 67.5%, 47.1%);
+  --color-semantic-2-light-300: hsl(38, 67.7%, 80.6%);
+  --color-semantic-2-light-100: hsl(37, 68.9%, 91.2%);
+  --color-accent-light-900: hsl(331, 30.1%, 20.2%);
+  --color-accent-light-700: hsl(331, 30.7%, 30%);
+  --color-accent-light-500: hsl(331, 30.4%, 40%);
+  --color-accent-light-300: hsl(331, 30.2%, 50%);
+  --color-accent-light-100: hsl(331, 30.7%, 70%);
+  --color-neutal-dark-900: hsl(203, 20%, 55.9%);
+  --color-neutal-dark-500: hsl(203, 14.8%, 76.1%);
+  --color-neutal-dark-100: hsl(0, 0%, 100%);
+  --color-semantic-dark-900: hsl(177, 24.7%, 50%);
+  --color-semantic-dark-500: hsl(177, 35.7%, 56.1%);
+  --color-semantic-dark-100: hsl(175, 36.4%, 79%);
+  --color-semantic-2-dark-900: hsl(37, 63.3%, 47.1%);
+  --color-semantic-2-dark-500: hsl(37, 63.6%, 80.6%);
+  --color-semantic-2-dark-100: hsl(37, 64.4%, 91.2%);
+  --color-main-dark-900: hsl(22, 60%, 54.9%);
+  --color-main-dark-500: hsl(22, 69.8%, 64.9%);
+  --color-main-dark-100: hsl(22, 89.3%, 78%);
+  --color-accent-dark-900: hsl(332, 19.6%, 60%);
+  --color-accent-dark-500: hsl(331, 19.7%, 75.1%);
+  --color-accent-dark-100: hsl(333, 21.6%, 90%);
+}
+body {
+  background-color: var(--color-semantic-2-light-100);
+}
+h1 {
+  color: var(--color-accent-light-700);
+}
+h2 {
+  color: var(--color-accent-light-900);
+}
+h3 {
+  color: var(--color-accent-light-900);
+}
+h4 {
+  color: var(--color-accent-light-900);
+}
+p {
+  color: var(--color-main-light-900);
+}
+li a {
+  color: var(--color-accent-light-300);
+}
+footer p a {
+  color: var(--color-accent-light-300);
+}

@@ -61,3 +61,6 @@ button {
   color: var(--daylight-primary-tint-2);
   box-shadow: inset;
 }
+.self-portrait {
+  width: 250px;
+}

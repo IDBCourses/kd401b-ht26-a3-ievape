@@ -56,3 +56,6 @@ li a {
 footer p a {
   color: var(--nightfall-accent-shade-1);
 }
+.self-portrait {
+  width: 250px;
+}

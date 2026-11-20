@@ -59,7 +59,6 @@ footer p a {
 button {
   background-color: var(--daylight-accent-tint-1);
   color: var(--daylight-primary-tint-2);
-  box-shadow: inset;
 }
 .self-portrait {
   width: 250px;

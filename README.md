@@ -1,6 +1,6 @@
 # Lighthouse report
 
-Generated 2026-11-20 13:59 UTC from commit `7f03fc9`.
+Generated 2026-11-20 14:55 UTC from commit `b9205e7`.
 
 | Page | Performance | Accessibility | Best practices | SEO |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ For full explanations and advice, download **lighthouse-html-reports** from the 
 
 ## /index.html
 
-- **First Contentful Paint** (2.4 s)
-- **Largest Contentful Paint** (21.4 s)
+- **First Contentful Paint** (2.3 s)
+- **Largest Contentful Paint** (21.3 s)
 - **Browser errors were logged to the console**
-- **Time to Interactive** (21.4 s)
-- **Largest Contentful Paint element** (21,440 ms)
+- **Time to Interactive** (21.3 s)
+- **Largest Contentful Paint element** (21,310 ms)
 - **Image elements do not have explicit `width` and `height`**
 - **Serve static assets with an efficient cache policy** (1 resource found)
-- **Avoid enormous network payloads** (Total size was 3,862 KiB)
-- **Eliminate render-blocking resources** (Est savings of 1,490 ms)
+- **Avoid enormous network payloads** (Total size was 3,861 KiB)
+- **Eliminate render-blocking resources** (Est savings of 1,420 ms)
 - **Properly size images** (Est savings of 2,402 KiB)
 - **Use video formats for animated content** (Est savings of 3,463 KiB)
 - **Document does not have a meta description**
